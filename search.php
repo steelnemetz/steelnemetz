@@ -64,9 +64,3 @@ if($search['picturesmall'])
 
 </tr>
 <?
-}
-?>
-</table>
-<?php
-
-require_once("templates/bottom.php");
